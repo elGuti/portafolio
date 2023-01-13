@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,600&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@600&display=swap');
+body{background-color: #030402;}
+p{color: aliceblue;}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.centrar-letras{
+    font-size: 18px;
+    text-align: center;
+    word-spacing:1px;
+    letter-spacing: 1pt;
+    margin-right: -150px;
+    font-family: 'Rubik',sans-serif ;
+    
+}
+
+.icon{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.titulos{
+    text-align: center;
+    font-family: 'Rubik',sans-serif ;
+}
+.hola{
+    color: #adadad;
+}
+
+
+.svg  {
+    display: flex;
+    justify-content: space-evenly;
+}
+.svg2{
+    display: flex;
+    justify-content: space-evenly ;
+}
+
+.svg3   {
+    display: flex;
+    justify-content: space-evenly ;
+    margin-right: 28px
+}
+
+.svg3{
+    display: flex;
+    justify-content: space-evenly ;
+    margin-right: -130px
+}
+.svg4{
+    display: flex;
+    margin-right: 95px
+}
+
+.p{
+font-family:  'Rubik', sans-serif;
+}
+
+
+.imgp{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.d1{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.d2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: -5px
+}
+
+
+.d3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 25px
+
+}
+
+.br{
+    border: 3px solid #adadad;
+    border-radius: 50%;
+}
+
+.cor{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 35px
+}
+
+.cor1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: -125px
+}
+
+.corm{
+    flex-direction: column;
+}
+.a{
+    display: flex;
+    justify-content: space-evenly;
+}
+.b{
+    display: flex;
+    justify-content: space-evenly;
+}
+.c{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.final{
+    text-align: center;
+    color: #adadad;
+    font-family:'Rubik',sans-serif;
+    font-size: 12px;
+    margin: 10pxcm;
+}
